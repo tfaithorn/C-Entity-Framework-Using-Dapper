@@ -1,0 +1,9 @@
+C:\Users\tom_t\source\repos\Custom C-Sharp Entity Framework\Custom C-Sharp Entity Framework\obj\Debug\net6.0\Custom C-Sharp Entity Framework.csproj.AssemblyReference.cache
+C:\Users\tom_t\source\repos\Custom C-Sharp Entity Framework\Custom C-Sharp Entity Framework\obj\Debug\net6.0\Custom C-Sharp Entity Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tom_t\source\repos\Custom C-Sharp Entity Framework\Custom C-Sharp Entity Framework\obj\Debug\net6.0\Custom C-Sharp Entity Framework.AssemblyInfoInputs.cache
+C:\Users\tom_t\source\repos\Custom C-Sharp Entity Framework\Custom C-Sharp Entity Framework\obj\Debug\net6.0\Custom C-Sharp Entity Framework.AssemblyInfo.cs
+C:\Users\tom_t\source\repos\Custom C-Sharp Entity Framework\Custom C-Sharp Entity Framework\obj\Debug\net6.0\Custom C-Sharp Entity Framework.csproj.CoreCompileInputs.cache
+C:\Users\tom_t\source\repos\Custom C-Sharp Entity Framework\Custom C-Sharp Entity Framework\obj\Debug\net6.0\Custom C-Sharp Entity Framework.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tom_t\source\repos\Custom C-Sharp Entity Framework\Custom C-Sharp Entity Framework\obj\Debug\net6.0\Custom C-Sharp Entity Framework.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tom_t\source\repos\Custom C-Sharp Entity Framework\Custom C-Sharp Entity Framework\obj\Debug\net6.0\Custom C-Sharp Entity Framework.RazorAssemblyInfo.cache
+C:\Users\tom_t\source\repos\Custom C-Sharp Entity Framework\Custom C-Sharp Entity Framework\obj\Debug\net6.0\Custom C-Sharp Entity Framework.RazorAssemblyInfo.cs
