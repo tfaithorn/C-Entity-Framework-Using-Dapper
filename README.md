@@ -7,6 +7,6 @@ Add a class that inherits from 'EntityBase' as a generic contraint.
 ##
 All values are prepared with Sql parameters unless a 'raw' flag is set on the SqlCondition class.
 ##
-Authentication is handled with Microsoft's Identity Service & Jwt tokens
+Authentication is handled using Microsoft's Identity Service & Jwt tokens
 ##
 **Note:** This repository is only meant as an example and it does not represent a finished project.
