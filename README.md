@@ -9,4 +9,4 @@ All values are prepared with Sql parameters unless a 'raw' flag is set on the Sq
 ##
 Authentication is handled using Microsoft's Identity Service & Jwt tokens
 ##
-**Note:** This repository is only meant as an example and it does not represent a finished project.
+**Note:** This repository is only an example and it does not represent a finished project.
