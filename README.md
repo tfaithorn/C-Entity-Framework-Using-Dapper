@@ -6,3 +6,5 @@ Add a class that inherits from 'EntityBase' as the generic contraint.
 2. Access the database using the Update, Select, Insert, or Delete methods. 
 ##
 Authentication is handled with Microsoft's Identity Service & Jwt tokens
+##
+Note: This repo is only meant as an example, and it does not represent a finished project.
