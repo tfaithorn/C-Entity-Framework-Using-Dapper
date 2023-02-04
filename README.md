@@ -5,6 +5,8 @@ The basic usage is:
 Add a class that inherits from 'EntityBase' as a generic contraint.
 2. Access the database with the Update, Select, Insert, or Delete methods. 
 ##
+All values are prepared with Sql parameters unless the 'raw' flag is set on the SqlCondition class.
+##
 Authentication is handled with Microsoft's Identity Service & Jwt tokens
 ##
 **Note:** This repository is only meant as an example and it does not represent a finished project.
