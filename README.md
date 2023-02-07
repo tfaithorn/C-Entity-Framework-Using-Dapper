@@ -1,5 +1,5 @@
 # C-Entity-Framework-Using-Dapper
-This is an example of how to set up an entity Framework using Dapper.
+This is an example of how to set up an entity Framework with Dapper.
 The basic usage is:
 1. Create a class that represents a table, which inherits from 'TableBase'.
 Add a class that inherits from 'EntityBase' as a generic contraint.
