@@ -7,8 +7,7 @@ Add a class that inherits from 'EntityBase' as a generic contraint.
 
 The core files are SqlConditions, SqlDataAccess & TableBase.
 ##
-All values are prepared with Sql parameters unless a 'raw' flag is set on the SqlCondition class.
+ - All values are prepared with Sql parameters unless a 'raw' flag is set on the SqlCondition class.
+- Authentication is handled with Jwt tokens & Microsoft's identity system
 ##
-Authentication is handled using Microsoft's Identity Service & Jwt tokens
-##
-**Note:** This repository is only an example and it does not represent a finished project.
+**Note:** This repository is only an example and it does not represent a full project.
