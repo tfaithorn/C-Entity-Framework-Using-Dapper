@@ -1,4 +1,4 @@
-# Dapper Query builder
+# Dapper SQL builder
 This is a test project to set up an SQL client in .net with Dapper.
 The basic usage is:
 1. Create a class for each  table which inherits from 'TableBase'.
