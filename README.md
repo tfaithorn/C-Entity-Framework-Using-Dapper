@@ -1,9 +1,9 @@
-# C-Entity-Framework-Using-Dapper
-This is an example of how to set up an entity Framework with Dapper.
+# Dapper Query builder
+This is a test project to set up an SQL client in .net with Dapper.
 The basic usage is:
-1. Create a class that represents a table, which inherits from 'TableBase'.
-Add a class that inherits from 'EntityBase' as a generic contraint.
-2. Access the database with the Update, Select, Insert, or Delete methods. 
+1. Create a class for each  table which inherits from 'TableBase'.
+2. For each entity add a class that inherits from 'EntityBase' as a generic contraint.
+2. User the Update, Select, Insert, or Delete methods with a list of conditions
 
 The core files are SqlConditions, SqlDataAccess & TableBase.
 ##
