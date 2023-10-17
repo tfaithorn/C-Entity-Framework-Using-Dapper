@@ -10,4 +10,4 @@ The core files are SqlConditions, SqlDataAccess & TableBase.
  - All values are prepared with Sql parameters unless a 'raw' flag is set on the SqlCondition class.
 - Authentication is handled with Jwt tokens & Microsoft's identity system
 ##
-**Note:** This repository is only an example and it does not represent a full project.
+**Note:** This repository is only an example and it does not represent the full project.
