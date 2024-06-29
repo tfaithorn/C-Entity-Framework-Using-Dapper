@@ -1,13 +1,14 @@
 # Dapper SQL builder
-This is a test project to set up an SQL client in .net with Dapper.
-The basic usage is:
-1. Create a class for each  table which inherits from 'TableBase'.
-2. For each entity add a class that inherits from 'EntityBase' as a generic contraint.
-2. User the Update, Select, Insert, or Delete methods with a list of conditions
+Test project for setting up an SQL client using Dapper.
 
-The core files are SqlConditions, SqlDataAccess & TableBase.
+The basic usage is:
+1. Create a class for each table that inherits from 'TableBase'.
+2. For each entity, create a class that inherits from 'EntityBase'.
+2. Use the Update, Select, Insert, or Delete methods with an array that contains a list of conditions
+
+The core files needed to make it work are SqlConditions, SqlDataAccess & TableBase.
 ##
- - All values are prepared with Sql parameters unless a 'raw' flag is set on the SqlCondition class.
-- Authentication is handled with Jwt tokens & Microsoft's identity system
+- All values are prepared using Sql parameters unless a 'raw' flag has been provided.
+- Authentication is handled using Jwt tokens & Microsoft's identity system.
 ##
-**Note:** This repository is only an example and it does not represent the full project.
+**Note:** The repository is an example and it does not represent the full project.
